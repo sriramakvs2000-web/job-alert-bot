@@ -1,0 +1,45 @@
+{
+  "title_keywords": [
+    "email marketing", "email marketer", "cold email", "lead generation", "lead gen",
+    "sales operations", "sales ops", "marketing operations", "marketing ops",
+    "revenue operations", "revops", "gtm", "go-to-market", "go to market",
+    "marketing automation", "lifecycle", "marketing associate", "hubspot",
+    "crm analyst", "crm operations", "crm specialist", "crm manager",
+    "demand generation", "marketing analyst", "campaign analyst", "campaign manager",
+    "growth operations", "outbound"
+  ],
+  "exclude_title_patterns": [
+    "\\bintern(ship)?\\b", "\\bdirector\\b", "\\bvp\\b", "vice president",
+    "\\bhead of\\b", "\\bchief\\b", "\\bprincipal\\b", "\\btrainee\\b"
+  ],
+  "skills": [
+    "hubspot", "smartlead", "apollo", "zoominfo", "sales navigator", "apify",
+    "cold email", "deliverability", "lead scoring", "lead routing", "workflow",
+    "segmentation", "icp", "a/b test", "dashboard", "reporting", "excel",
+    "google sheets", "crm", "marketing automation", "data quality", "deduplication",
+    "lifecycle", "nurture", "email campaign", "outbound", "prospecting", "enrichment"
+  ],
+  "india_locations": [
+    "india", "bengaluru", "bangalore", "mumbai", "delhi", "new delhi", "gurgaon", "gurugram",
+    "noida", "hyderabad", "chennai", "pune", "kolkata", "ahmedabad", "coimbatore", "kochi",
+    "cochin", "jaipur", "chandigarh", "indore", "trivandrum", "thiruvananthapuram",
+    "bhubaneswar", "nagpur", "lucknow", "vadodara", "surat", "mysore", "mysuru", "madurai",
+    "visakhapatnam", "mohali", "faridabad", "ghaziabad", "navi mumbai", "thane", "kozhikode",
+    "tiruchirappalli", "salem", "erode", "tiruppur"
+  ],
+  "include_ambiguous_remote": false,
+  "max_age_hours": 24,
+  "min_score": 50,
+  "max_years_required": 7,
+  "max_alerts_per_run": 15,
+  "_note_companies": "STARTER EXAMPLES, not verified. Wrong names are skipped safely. Find a company's name in its job page URL: boards.greenhouse.io/<name>, jobs.lever.co/<name>, jobs.ashbyhq.com/<name>",
+  "companies": {
+    "greenhouse": ["postman"],
+    "lever": ["cred"],
+    "ashby": []
+  },
+  "adzuna_queries": [
+    "marketing operations", "sales operations", "email marketing", "marketing automation",
+    "hubspot", "lead generation", "gtm", "crm analyst"
+  ]
+}
